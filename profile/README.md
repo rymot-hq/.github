@@ -82,26 +82,6 @@ Features:
 * Risk detection
 * Enterprise integrations
 
----
-
-### Agent Core
-
-The telemetry engine powering the Rymot ecosystem.
-
-Agent Core is a high-performance Rust-based monitoring platform responsible for activity collection, processing, event generation, and system intelligence.
-
-Capabilities:
-
-* Cross-platform monitoring
-* Application tracking
-* URL intelligence
-* Screenshot capture
-* Device telemetry
-* Policy enforcement
-* Offline buffering
-* Secure synchronization
-
----
 
 ## Platform Capabilities
 
