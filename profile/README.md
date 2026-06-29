@@ -1,7 +1,7 @@
 # Rymot
 
 <p align="center">
-  <img src="./rymot-logo.png" alt="Rymot" width="220" />
+  <img src="./rymot-logo.png" alt="Rymot" width="420" />
 </p>
 
 <p align="center">
