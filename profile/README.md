@@ -40,7 +40,7 @@ Built for organizations that require investigative visibility, risk monitoring, 
 
 ### Rymot Local
 
-Personal productivity intelligence for individuals.
+Personal cognitive intelligence for modern knowledge work.
 
 A local-first desktop experience designed for developers, students, freelancers, and knowledge workers who want to better understand how they work without sending their data to the cloud.
 
